@@ -1,0 +1,4 @@
+username:linda.delishoi
+admmin-dashboard url:localhost/MidsemProject_USSD/index.html
+url to project folder + ussd code:
+USSD extension:45
